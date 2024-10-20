@@ -2,19 +2,17 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
-<div class="profile">
-    <img src="Juicy.jpg" alt="Jannatul Ferdous Juicy" class="profile-pic">
-    <div class="profile-text">
-        # Jannatul Ferdous Juicy
-        
-        _A results-driven and adaptable professional with diverse skills, committed to continuous learning and innovation._
-        
-        **Email**: juicyy.1038@gmail.com  
-        **Phone**: 01973729332  
-        **Location**: Dhaka, Bangladesh  
-        **LinkedIn**: [Jannatul Ferdous Juicy](https://www.linkedin.com/in/jannatul-ferdous-juicy-710988326/)
-    </div>
-</div>
+# Jannatul Ferdous Juicy
+
+_A results-driven and adaptable professional with diverse skills, committed to continuous learning and innovation._
+
+![Profile Image](profile.jpg){: .profile-pic }
+
+**Email**: juicyy.1038@gmail.com  
+**Phone**: 01973729332  
+**Location**: Dhaka, Bangladesh  
+**LinkedIn**: [Jannatul Ferdous Juicy](https://www.linkedin.com/in/jannatul-ferdous-juicy-710988326/)
+
 
 ---
 
