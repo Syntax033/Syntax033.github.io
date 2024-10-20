@@ -6,11 +6,14 @@
 }
 
 .profile-pic {
-    width: 150px;  /* Adjust width as needed */
-    height: auto;
-    border-radius: 50%;  /* Makes it a circle */
-    margin-right: 20px;  /* Adds space between the image and text */
+    display: block;
+    margin: 0 auto;  /* Center the image */
+    width: 150px;  /* Adjust the size */
+    height: 150px;
+    border-radius: 50%;  /* Makes the image circular */
+    border: 3px solid #333;  /* Optional: Add a border */
 }
+
 
 .profile-text {
     flex: 1;
