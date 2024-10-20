@@ -1,3 +1,8 @@
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
 # Jannatul Ferdous Juicy
 
 _A results-driven and adaptable professional with diverse skills, committed to continuous learning and innovation._
