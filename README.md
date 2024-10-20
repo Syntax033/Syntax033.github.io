@@ -1,18 +1,7 @@
-# Jannatul Ferdous Juicy
-
-
-_A results-driven and adaptable professional with diverse skills, committed to continuous learning and innovation._
-
 **Email**: juicyy.1038@gmail.com  
 **Phone**: 01973729332  
 **Location**: Dhaka, Bangladesh  
 **LinkedIn**: [Jannatul Ferdous Juicy](https://www.linkedin.com/in/jannatul-ferdous-juicy-710988326/)
-
----
-
-
-## About Me
-I am a results-driven and adaptable professional with a versatile skill set that enables me to excel across diverse fields. My unwavering commitment to continuous learning and innovation propels me toward achieving exceptional outcomes.
 
 ---
 
