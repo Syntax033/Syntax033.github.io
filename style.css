@@ -1,88 +1,70 @@
-/* Profile Section */
-.profile {
-    display: flex;
-    align-items: center;
-    margin-bottom: 20px;
-}
-
+/* Profile Image Styling */
 .profile-pic {
     display: block;
-    margin: 0 auto;  /* Center the image */
-    width: 150px;  /* Adjust the size */
+    margin: 0 auto;
+    width: 150px;
     height: 150px;
-    border-radius: 50%;  /* Makes the image circular */
-    border: 3px solid #333;  /* Optional: Add a border */
+    border-radius: 50%;
+    border: 3px solid #333;  /* Optional border */
 }
 
-
-.profile-text {
-    flex: 1;
-}
-
-/* General Styles */
+/* Container and Text Styling */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
 }
 
 .container {
     max-width: 900px;
-    margin: 0 auto;
+    margin: 20px auto;
     padding: 20px;
     background-color: white;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.1);
 }
 
-h1, h2 {
-    color: #333;
+h1 {
+    text-align: center;
+    color: #337ab7;  /* Color matching the title */
 }
 
-p, ul {
-    color: #555;
+p, ul, li {
+    line-height: 1.8;
 }
 
 ul {
     list-style-type: none;
-    padding: 0;
+    padding-left: 0;
 }
 
-li {
-    margin: 5px 0;
+ul li {
+    margin-bottom: 10px;
 }
 
-header {
-    background-color: #333;
-    color: white;
-    padding: 20px 0;
+hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* Contact Info */
+.contact-info {
     text-align: center;
+    margin-bottom: 20px;
 }
 
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px 0;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-}
-
-a {
-    color: #3498db;
+.contact-info a {
+    color: #337ab7;
     text-decoration: none;
 }
 
-a:hover {
+.contact-info a:hover {
     text-decoration: underline;
 }
 
-section {
-    margin: 20px 0;
-}
-
-.contact-info p {
-    margin: 5px 0;
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 50px;
+    color: #777;
+    font-size: 14px;
 }
