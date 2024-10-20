@@ -3,7 +3,7 @@
 </head>
 
 <div class="profile">
-    <img src="Juicy.HEIC" alt="Jannatul Ferdous Juicy" class="profile-pic">
+    <img src="Juicy.jpg" alt="Jannatul Ferdous Juicy" class="profile-pic">
     <div class="profile-text">
         # Jannatul Ferdous Juicy
         
