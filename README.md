@@ -4,7 +4,7 @@
 
 # Jannatul Ferdous Juicy
 
-![Profile Image](profile.png){: .profile-pic }
+![Profile Image](Juicy.png){: .profile-pic }
 
 _A results-driven and adaptable professional with diverse skills, committed to continuous learning and innovation._
 
