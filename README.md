@@ -20,7 +20,7 @@
 - **Secondary School Certificate (SSC)**  
   Monipur High School & College, Dhaka, Bangladesh  
   (2007 - 2017)  
-  GPA: Golden 5.00
+  GPA: 5.00
 
 ---
 
